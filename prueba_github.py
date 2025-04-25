@@ -10,3 +10,4 @@ b = 44
 c = a + b
 
 print(c)
+print(a)
